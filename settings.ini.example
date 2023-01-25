@@ -1,0 +1,5 @@
+[CloudFlare]
+url = my-home.example.com
+cloudflare_api_token =
+proxied = false
+most_recent_ip = 0.0.0.0
